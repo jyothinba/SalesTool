@@ -5,7 +5,9 @@ public class SaleData {
 	int[] data = { 1, 2, 3 };
 
 	public void display() {
-		System.out.println("TODO: Generated code goes here!!");
+		for (int i = 0; i < data.length; i++) {
+			System.out.println("TODO: Generated code goes here!!");
+		}
 	}
 
 }
